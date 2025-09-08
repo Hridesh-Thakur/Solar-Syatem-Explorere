@@ -3,7 +3,7 @@
 An interactive **3D Solar System Explorer** that lets you discover planets with beautiful visuals and smooth transitions.  
 Crafted with ❤️ by **Hridesh Thakur**.
 
-![Solar Explorer Preview](./screenshot.png)  
+![Solar Explorer Preview](./image.png)  
 
 
 ---
@@ -17,11 +17,7 @@ Crafted with ❤️ by **Hridesh Thakur**.
 
 ---
 
-## 🚀 Live Demo
-👉 [View Project Here](https://your-live-demo-link.com)  
 
-
----
 
 ## 🛠️ Installation & Setup
 1. Clone the repository:
